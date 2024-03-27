@@ -1,6 +1,6 @@
 # House Price Prediction Project
 
-Demonstrate their end-to-end skills in data scraping, data preprocessing, feature engineering, modeling, and evaluation. The task involves predicting house prices using machine learning models. The following requirements outline the project details.
+Demonstrate end-to-end skills in data scraping, data preprocessing, feature engineering, modeling, and evaluation. The task involves predicting house prices using machine learning models. The following requirements outline the project details.
 
 This project aims to predict house prices using machine learning models. It involves data scraping, data preprocessing, feature engineering, modeling, and evaluation. The project utilizes a comprehensive dataset collected from the website https://batdongsan.vn/ban-nha/.
 
